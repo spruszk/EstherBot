@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Sean Pruszkowski.\n![sean]\nWant to know more about Sean? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "yes": "Awesome! Let's get started. 
+    "yes": "Awesome! Let's get started.",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
